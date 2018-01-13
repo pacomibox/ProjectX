@@ -15,7 +15,7 @@ export class HomeComponent implements OnInit {
   return [{
    id: 1,
    title: 'ipsum dolor',
-   description: '"Lorem ipsum'
+   description: 'Lorem ipsum'
   }, {
    id: 2,
    title: 'ipsum dolor',
