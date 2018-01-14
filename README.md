@@ -7,7 +7,7 @@ Este proyecto usa:
 1. Node 9.0.0
 
 
-![my-proyecto-angular](https://cdn-images-1.medium.com/max/640/1*Ljx92kLPhyj0rB_B5g7_wQ.png)
+![project-x](https://cdn-images-1.medium.com/max/640/1*Ljx92kLPhyj0rB_B5g7_wQ.png)
 
 
 Recuerda que luego de descargar o clonar el proyecto debes pararte en tu proyecto en la terminal y ejecutar:
